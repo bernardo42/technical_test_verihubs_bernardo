@@ -1,4 +1,4 @@
-This is script in Jupyter Notebook for Technical Test in Verihubs
+This is script in Jupyter Notebook for Technical Test
 Step 1 : Setup Dagster Environment
 Step 2 : Load csv and insert to duckdb
 Step 3 : Create 2 table for Tracks monthly total revenue divided by product category (assume all transactions are successful and Tracks the number of daily orders, divided by order status
